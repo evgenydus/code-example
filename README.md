@@ -1,0 +1,1 @@
+A short code example implemented/refactored by me considering legacy parts of the code.
